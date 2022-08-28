@@ -1,3 +1,5 @@
+<img src="cefet-logo1.png" align="right" width="150">
+
 # ANALISE-E-MODELAGEM-DE-SISTEMAS
 
 Disciplina Análise e Modelagem de Sistemas - Sistemas de Informação - Cefet/RJ
